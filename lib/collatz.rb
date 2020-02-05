@@ -1,3 +1,5 @@
+class Collatz
+
 def collatz(num)
   count = 1
   if num < 0
@@ -27,3 +29,4 @@ end
 
 
 
+end
